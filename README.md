@@ -12,3 +12,4 @@ installation instruction added for UI
 
 ## User Interface
 How to install UI
+- Download program
