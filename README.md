@@ -5,4 +5,4 @@ Welcome to my sample project
 More data added
 
 ## subheading
-Some more information is added here
+Some more updated information is added here
