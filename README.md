@@ -8,4 +8,7 @@ More data added
 Some more updated information is added here
 
 ## Second subheading
-installation instruction
+installation instruction added for UI
+
+## User Interface
+How to install UI
