@@ -4,4 +4,4 @@ Welcome to my sample project
 
 
 ## subheading
-Somem more information
+Some more information
