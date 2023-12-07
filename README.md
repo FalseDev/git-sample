@@ -9,8 +9,12 @@ Some more updated information is added here
 
 ## Second subheading
 installation instruction added for UI
-installation instruction for Linux
+installation for Linux
 
 ## User Interface
 How to install UI
 - Download program
+
+```js
+console.log("Hello")
+```
