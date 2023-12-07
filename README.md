@@ -11,10 +11,13 @@ Some more updated information is added here
 installation instruction added for UI
 installation for Linux
 
-## User Interface
-How to install UI
-- Download program
 
 ```js
 console.log("Hello")
+
+## Some python code is added
+```py
+import time
+time.sleep(2)
+print("Work done")
 ```
